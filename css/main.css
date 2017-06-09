@@ -1,0 +1,210 @@
+
+
+/**** Start Nav****/
+
+.navbar-inverse
+
+{
+    background-color: #337ab7;
+    border-color: #337ab7;
+}
+
+.navbar-inverse .navbar-nav > li > a
+{
+    color: #f5f5f5;
+    font-size: 20px;
+}
+
+.navbar-inverse .navbar-nav > li > a:hover
+{
+    color: #dbe5f1
+}
+
+.navbar-inverse .navbar-brand {
+    color: #f5f5f5;
+}
+
+
+/** start slider **/
+
+.carousel
+
+{
+    height: 500px;
+    width: 1348px;
+    margin-left: -105px;
+    margin-right: 0px;
+    margin-right: -15px;
+}
+
+.carousel .item
+{
+    height: 500px;
+}
+
+/***End slider**/
+
+/**Start table section***/
+
+.table_one
+{
+    margin-top: 50px;
+    max-width: 350px;
+    margin-left: 80px;
+
+}
+
+.table_two
+{
+
+    margin-top: 50px;
+    width: 350px;
+    max-width: 350px;
+    margin-left: 100px;
+}
+
+/**End tables***/
+
+/*Start conact us */
+
+.contact
+{
+	background:url('../imgs/04_03_1-Stock-Market-Prices_web.jpg') no-repeat center center fixed;
+	-webkit-background-size:cover;
+	-moz-background-size:cover;
+	background-size:cover;
+	min-height:350px;
+}
+
+.contact .box
+
+{ 
+	  padding-bottom:40px;
+	  padding-top:40px;
+	  min-height:350px;
+	  color:#DDD;
+	 background:rgba(2,2,2,0.8)
+	
+}
+
+.contact p 
+{
+	
+	margin-bottom:40px;
+}
+
+.contact textarea
+{
+	height:108px;
+}
+
+/*End contact us*/
+
+
+/**table page**/
+
+.panel-default
+
+{
+    margin-top: 100px;
+  
+    margin-bottom: 20px;
+    min-width: 500px;
+   
+}
+
+.panel-default > .panel-heading 
+{
+    color: #333;
+    background-color: #337ab7;
+    border-color: #ddd;
+}
+
+.panel-default > .panel-heading h5
+{
+    color: white;
+    font-size: 20px;
+    font-style: bold;
+}
+
+.panel-heading .thead
+
+{
+    margin-top: 15px;
+}
+
+.table-bordered
+{
+    border: 1px solid #ddd;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+/** stock details page**/
+
+/**Background***/
+
+.background
+{
+	background:url('../imgs/anthony-indraus-1431122.jpg') no-repeat center center fixed;
+	-webkit-background-size:cover;
+	-moz-background-size:cover;
+	background-size:cover;
+	height:250px;
+}
+
+.background .box
+
+{ 
+	  padding-bottom:40px;
+	  padding-top:40px;
+	  height:250px;
+	  color:#DDD;
+	 background:rgba(2,2,2,0.6);
+	
+}
+
+.stock-details
+{
+    height: 600px;
+    
+    border: 1px #DDD solid;
+    margin-top: 35px;
+    margin-bottom: 35px;
+    border-radius: 5px;
+}
+
+.stock-details img
+{
+    float: right;
+    margin-top: 70px;
+    margin-right: 40px;
+}
+
+.info
+
+{
+    max-width: 500px;
+    margin-left: 40px;
+    margin-top: 50px;
+}
+
+
+
+/*start footer*/
+#footer-sec {
+    background-color:#337ab7;
+    padding:20px 50px;
+    color:#fff;
+    font-size:12px;
+}
+
+    #footer-sec a {
+        color:#fff;
+    }
+    #footer-sec a:hover,a:focus {
+        color:#fff;
+        text-decoration:none;
+    }
+
+
